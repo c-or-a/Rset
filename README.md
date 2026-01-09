@@ -17,7 +17,7 @@ With the release binaries you can begin utilizing the utility almost immediately
 * In the settings page ([+] button), you can toggle notification beeps, and the classic mode for the progress bar in the theme of the alpha version of the utility.
 <br><br><br><br><br>
 # **Nerd stuff**
-<br><br><br>
+<br><br>
 ## **Building from source**
 Install Python version 3.11<br><br>
 Install the requirements with<br>
