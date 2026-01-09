@@ -3,7 +3,7 @@
 ## **Never** lose a prized vehicle to a server restart again. 
 
 ### This lightweight utility tracks server restart times with high precision, 
-### enabling you to secure your prized gear before the restart, 
+### enabling you to secure your gear before the restart, 
 ### and ensuring you are the first one back in the queue.
 
 Designed in-time with, and for, the _Escape from Dayz_ by Goon DayZ server. 
