@@ -19,6 +19,6 @@ With the release binaries you can begin utilizing the utility almost immediately
 
 ## **Nerd stuff**
 [Detect It Easy](https://github.com/horsicq/Detect-It-Easy)
-<img width="1727" height="599" alt="image" src="https://github.com/user-attachments/assets/e41425be-f452-475a-9274-42518317d65f" />
+<img width="1723" height="599" alt="image" src="https://github.com/user-attachments/assets/3813475a-404e-4903-a650-3aefdaefbc0e" />
 [Virus total](https://www.virustotal.com/gui/file/8b7268419432c6e68e04ef1744ee4dc59d02ec724bf6e03710c9eb9a16e142bf)<br>
 <img width="656" height="1089" alt="image" src="https://github.com/user-attachments/assets/ff0af1d0-9add-42b0-a146-7966f0ad218b" />
