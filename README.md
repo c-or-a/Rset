@@ -19,10 +19,10 @@ With the release binaries you can begin utilizing the utility almost immediately
 # **Nerd stuff**
 <br><br><br>
 ## **Building from source**
-Install Python version 3.11<br>
-Install the required dependencies with<br>
-```py/python -m pip install pyinstaller```<br><br>
-Make sure to install dependencies to the correct version if you have multiple python versions.<br> > ```py/python -3.11 -m pip install pyinstaller```<br><br>
+Install Python version 3.11<br><br>
+Install the requirements with<br>
+```py/python -m pip install pyinstaller```<br>
+Make sure to install requirements to the correct version if you have multiple python versions.<br> > ```py/python -3.11 -m pip install pyinstaller```<br><br>
 Alternatively install the requirements from the requirements file.<br>
 ```py/python -3.11 -m pip install -r requirements.txt```<br><br>
 Compile using PyInstaller,<br>
