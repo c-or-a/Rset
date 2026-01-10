@@ -235,9 +235,8 @@ def main():
 
         imgui.same_line(position=DEFAULT_WIDTH - 50)
         imgui.push_style_color(imgui.COLOR_BUTTON, *RED)
-        imgui.push_style_color(imgui.COLOR_TEXT, 0, 0, 0, 0) # Hide default text
+        imgui.push_style_color(imgui.COLOR_TEXT, 0, 0, 0, 0)
         
-        # Save screen positions for custom text drawing
         min_pos = imgui.get_cursor_screen_pos()
         if imgui.button("##min", width=18, height=18): glfw.iconify_window(window)
         
@@ -245,7 +244,6 @@ def main():
         close_pos = imgui.get_cursor_screen_pos()
         if imgui.button("##close", width=18, height=18): glfw.set_window_should_close(window, True)
         
-        # Draw custom text elements
         draw_list = imgui.get_window_draw_list()
         text_color = imgui.get_color_u32_rgba(*BLACK)
         
