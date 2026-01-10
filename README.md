@@ -26,6 +26,6 @@ Compile using PyInstaller,<br>
 <br><br>
 ## **Release Binary Virus Total + Analysis**
 [Detect It Easy](https://github.com/horsicq/Detect-It-Easy)
-<img width="1700" height="618" alt="die" src="https://github.com/user-attachments/assets/0d8b5a7d-12e6-4bd9-b761-b26c3d1588a6" />
-[Virus total](https://www.virustotal.com/gui/file/4727c9ae7ea3d0aa0cb0616780f9e8c97da59d0f18c7ae9bdd7efaf42699e599)<br>
-<img width="789" height="1265" alt="vt" src="https://github.com/user-attachments/assets/2ec7ae98-2207-4b0c-bd25-50bd564e36cf" />
+<img width="1711" height="615" alt="die" src="https://github.com/user-attachments/assets/15205ee8-f6bd-4d95-8c12-69a3879a86a1" />
+[Virus total](https://www.virustotal.com/gui/file/ea5d6a38f71d92534a0b1e909797296abf502a2187dbc59e9d1a3be9053dff9a)<br>
+<img width="791" height="1239" alt="vt" src="https://github.com/user-attachments/assets/a5ad8293-4578-48e2-b8bd-e38a14d3c8e0" />
