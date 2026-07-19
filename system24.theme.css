@@ -86,7 +86,7 @@ body {
 
 /* color options */
 :root {
-    --transparenceh: 0.9;
+    --transparenceh: 0.5;
     --colors: on; /* off: discord default colors, on: midnight custom colors */
 
     /* text colors */
