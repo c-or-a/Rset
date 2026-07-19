@@ -18,7 +18,7 @@ body {
 
         /* background image options */
     --background-image: on; /* off: no background image, on: enable background image (must set url variable below) */
-    --background-image-url: url('https://media.discordapp.net/attachments/1409609812102086780/1528203919564603402/4.png?ex=6a5d724f&is=6a5c20cf&hm=c0ed3a1c136526883addcad0d3056b6ff33c2c9c32983897253aaaea9e0242a2&=&format=webp&quality=lossless&width=2263&height=1273https://media.discordapp.net/attachments/1409609812102086780/1528203919564603402/4.png?ex=6a5d724f&is=6a5c20cf&hm=c0ed3a1c136526883addcad0d3056b6ff33c2c9c32983897253aaaea9e0242a2&=&format=webp&quality=lossless&width=2263&height=1273'); /* url of the background image */
+    --background-image-url: url('https://cdn.discordapp.com/attachments/1409609812102086780/1528203919564603402/4.png?ex=6a5d724f&is=6a5c20cf&hm=c0ed3a1c136526883addcad0d3056b6ff33c2c9c32983897253aaaea9e0242a2&'); /* url of the background image */
 
 
     /* font, change to '' for default discord font */
